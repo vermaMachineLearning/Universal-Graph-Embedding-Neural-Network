@@ -1,4 +1,4 @@
-# Paper Code Learning Powerful Graph Neural Networks With Aid Of Transfer Learning 
+# Paper Code: Learning Powerful Graph Neural Networks With Aid Of Transfer Learning 
 Universal-Graph-Embedding-Neural-Network Paper: https://arxiv.org/abs/1909.10086
 
 ## Package Requirements:
